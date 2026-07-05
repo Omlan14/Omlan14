@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Samiur!&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Samiur%20Rahman%20Omlan!&fontSize=50&fontAlignY=35&animation=twinkling" />
   
   <h2 align="center">Building Scalable Full-Stack Systems & Applied ML Solutions</h2>
   
