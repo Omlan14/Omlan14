@@ -4,7 +4,7 @@
   <h2 align="center">Building Scalable Full-Stack Systems & Applied ML Solutions</h2>
   
   <p align="center">
-    <b>Full-Stack Developer | Machine Learning Enthusiast | CS Undergraduate</b>
+    <b>Full-Stack Developer | CS Undergraduate</b>
   </p>
   
   <p align="center">
